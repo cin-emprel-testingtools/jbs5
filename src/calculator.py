@@ -11,3 +11,8 @@ class Calculator:
     
     def division(self, a, b):
         return a / b
+    
+    def adition3(self,a,b,c):
+        return a + b + c
+
+
